@@ -40,34 +40,37 @@ b.  KCL:
 7.   Take readings for different values of input voltage and tabulate them. 
 CIRCUIT DIAGRAM:
 
-CIRCUIT DIAGRAM:
-
-
 a.   KVL:
- 
 
+<img width="961" height="373" alt="image" src="https://github.com/user-attachments/assets/6381e2f7-98ed-4e63-b8b4-e449e4cc12d6" />
 
 b.  KCL:
- 
+
+<img width="958" height="407" alt="image" src="https://github.com/user-attachments/assets/fd06fae5-bed8-48de-bbaa-916bd65550a4" />
 
 Calculation:
 
 a.   KVL:
- 
 
+<img width="751" height="435" alt="image" src="https://github.com/user-attachments/assets/960c0ca2-b45b-4f32-bf6f-8322c2821acd" />
+<img width="658" height="352" alt="image" src="https://github.com/user-attachments/assets/328f3600-e58e-411f-b700-029de2771d14" />
 
 b.  KCL:
 
-
-
+<img width="726" height="738" alt="image" src="https://github.com/user-attachments/assets/cc0c8dfd-fa26-45d1-a342-934e6cb192c8" />
+<img width="676" height="507" alt="image" src="https://github.com/user-attachments/assets/8a891d77-811e-4a90-b9fb-1397ac46defd" />
 
 Tabulation:
 
 a.   KVL:
+
+<img width="792" height="453" alt="image" src="https://github.com/user-attachments/assets/850a2372-0675-40a3-8bf9-b59845ab2a68" />
  
+ b.  KCL:
+
+<img width="783" height="442" alt="image" src="https://github.com/user-attachments/assets/26e37d85-157f-4b07-b2c3-75ecc52bafca" />
 
 
-b.  KCL:
 
 
 
